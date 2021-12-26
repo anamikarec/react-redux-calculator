@@ -1,2 +1,2 @@
-# react-redux-calculator
+# counter-app-using-react-redux
 Created with CodeSandbox
